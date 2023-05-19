@@ -62,7 +62,7 @@ class _HomeState extends State<Home> {
         actions: [
           IconButton(
             onPressed: _resetFields,
-            icon: Icon(Icons.refresh) ,
+            icon: Icon(Icons.refresh),
           ),
         ],
       ),
